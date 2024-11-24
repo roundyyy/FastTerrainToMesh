@@ -68,19 +68,17 @@ A Unity tool for efficient terrain-to-mesh conversion with a highly optimized un
 ### Mesh Generation
 - Chunk-based mesh generation for optimized memory usage.
 - Optional LOD levels with customizable reduction strength and transition heights.
-- Supports mesh colliders and static object flags.
 - Terrain tree exporter with LOD and parent group handling.
 - Accurate heightmap sampling for precise terrain recreation.
 
-## Future Updates
+## Future Updates (if requested)
 
 - **Lit Shader Version**: Including normal map support for enhanced visual fidelity.
-- **Improved LOD Transitions**: Seamless transitions between LOD levels.
 - Additional optimization settings and shader features.
 
 ## Requirements
 
-- Unity 2019.4 or higher (tested up to Unity 2026).
+- Unity 2019.4 or higher (tested up to Unity 6).
 - Supports Built-in Render Pipeline and Universal Render Pipeline.
 - Designed for VR and mobile applications.
 
