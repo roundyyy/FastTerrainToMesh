@@ -17,7 +17,7 @@ A Unity tool for efficient terrain-to-mesh conversion with a highly optimized un
 - **Highly Optimized Shader**:
   - Unlit shader compatible with Built-in Render Pipeline (BIRP) and Universal Render Pipeline (URP).
   - Minimal GPU usage, ideal for VR and mobile applications.
-  - Supports up to 4 terrain textures using Texture Arrays.
+  - Supports ONLY max 4 terrain textures using Texture Arrays.
   - Optional lightmap and smoothness effects.
   - Distance-based texture resampling to prevent tiling artifacts.
   - Height-based texture blending and customizable texture tiling.
@@ -30,7 +30,7 @@ A Unity tool for efficient terrain-to-mesh conversion with a highly optimized un
 
 ## Installation
 
-1. Download the latest release package from the [Releases](https://github.com/yourusername/FastTerrainToMeshGenerator/releases) page.
+1. Download the latest release package from the [Releases](https://github.com/roundyyy/FastTerrainToMesh/releases) page.
 2. Import the package into your Unity project.
 3. The tool will be available under `Tools/Roundy/Fast Terrain To Mesh Generator`.
 
@@ -59,7 +59,7 @@ A Unity tool for efficient terrain-to-mesh conversion with a highly optimized un
 - Optional smoothness effect via alpha channel.
 - Distance-based texture resampling to reduce noticeable tiling of textures at greater distances.
 - Lightmap support for baked lighting.
-- Height-based texture blending.
+- Height-based texture blending (Height is taken from texture's Red channel).
 - Configurable tiling and offsets for up to 4 texture layers.
 
 ### Mesh Generation
