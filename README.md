@@ -4,7 +4,10 @@ A Unity tool for efficient terrain-to-mesh conversion with a highly optimized un
 
 ![Terrain To Mesh Screenshot](screenshot.png)
 
-[![Demo Scene Made With This Tool](http://img.youtube.com/vi/Sw4tQi6weog/0.jpg)](http://www.youtube.com/watch?v=Sw4tQi6weog "Demo Scene Made With This Tool")
+## Demo
+
+[<img src="https://img.youtube.com/vi/Sw4tQi6weog/maxresdefault.jpg" width="600px" alt="Click to Watch Demo Video">](https://youtu.be/Sw4tQi6weog)
+#### 🎥 Click image to watch demo video
 
 *The scene in this demo was created using this terrain conversion tool.*
 
