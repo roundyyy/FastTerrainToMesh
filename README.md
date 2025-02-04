@@ -63,7 +63,7 @@ A Unity tool for efficient terrain-to-mesh conversion with optimized shaders, pe
 
 ## Support
 
-For issues, feature requests, or questions, please use the [GitHub Issues](https://github.com/roundyy/FastTerrainToMesh/issues) page.
+For issues, feature requests, or questions, please use the [GitHub Issues](https://github.com/roundyyy/FastTerrainToMesh/issues) page.
 
 ## Usage Rights
 
